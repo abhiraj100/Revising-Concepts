@@ -1,0 +1,46 @@
+body{
+    padding: 50px 100px;
+}
+
+#main{
+    border: 2px solid black;
+    align-items: center;
+}
+
+#container{
+    border: 1 px solid red;
+    text-align: center;
+    background-color: rgb(147, 247, 247);
+    padding: 50px;
+}
+
+h1{
+    align-items: center;
+}
+
+.input-div{
+    display: inline-block;
+}
+
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+}
+
+label{
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    /* background-color: #3fc9ff; */
+}
+
+#lab{
+    background-color: #e6e8e9;
+    padding: 5px 10px;
+    margin: 10px;
+    border: 1px solid #3fc9ff;
+}
